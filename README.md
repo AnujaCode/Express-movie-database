@@ -5,19 +5,30 @@ Full stack project including SQL, JavaScript , express.js and unit testing
 List of major frameworks/libraries
 
 JavaScript 
+
 Node.js
+
 Express.js
+
 Sequelize
+
 SQLite3 
+
 Jest
 
 # Getting Started
 Initilizing new node project with relevant dependencies
+
 Installations
+
 npm 
+
 npm init -y
+
 Seuqelize Jest Express
+
 npm install jest sqlite3 sequelize express
+
 # Usage
 In this project, association between Movie with related Crew and Cast demonstrated. One Movie can have many cast and crew.
 # Output acheived by following steps
