@@ -4,17 +4,24 @@ Full stack project including SQL, JavaScript , express.js and unit testing
 # Built With
 List of major frameworks/libraries
 
-JavaScript 
+Tools
 
-Node.js
+Visual Studio
 
-Express.js
+Postman 
 
-Sequelize
 
-SQLite3 
+    JavaScript 
 
-Jest
+    Node.js
+
+    Express.js
+
+    Sequelize
+
+    SQLite3 
+
+    Jest
 
 # Getting Started
 Initilizing new node project with relevant dependencies
