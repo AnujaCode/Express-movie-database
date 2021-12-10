@@ -28,13 +28,13 @@ Initilizing new node project with relevant dependencies
 
 Installations
 
-npm 
+        npm 
 
-npm init -y
+        npm init -y
 
-Seuqelize Jest Express
+        Seuqelize Jest Express
 
-npm install jest sqlite3 sequelize express
+        npm install jest sqlite3 sequelize express
 
 # Usage
 In this project, association between Movie with related Crew and Cast demonstrated. One Movie can have many cast and crew.
